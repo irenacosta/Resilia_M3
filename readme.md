@@ -35,7 +35,7 @@
 <br>
 <hr/>
 
-## 📋 Perguntas utilizadas:
+## 📋 Perguntas norteadoras de observação dos dados principais e de busca por informações para contextualização:
 
 <ul style="list-style: square;">
     <li>O cálculo de tempo de duração dos episódios mostra se houve de fato uma redução de tempo de tela na narrativa nas duas últimas temporadas?</li>
