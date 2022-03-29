@@ -1,12 +1,27 @@
 # <img height="30" src="https://www.resilia.com.br/wp-content/themes/resiliaTheme/assets/images/logo.png" />  
 
-# Módulo 03 - Projeto Final - Game of Thrones Database
+# Módulo 03 - Projeto Final - Game of Spin-Off
+<br>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+<img src="assets/img/gotspinoff.jpg" />
 
 <br>
 
-<img src="./Imagens/bg_got_1.png" />
 
-<br>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=DATABASE%20PRINCIPAL&message=TABELAS%20EM%20CSV&color=GREEN&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=FONTES%20AUXILIARES&message=HBO,%20EMMY%20e%20IMDb&color=GREEN&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=TRATAMENTO&message=MySQL%20E%20POWER%20BI&color=GREEN&style=for-the-badge"/>
+</p>
+
 <hr/>
 
 ## 🔖 Descrição:
@@ -16,10 +31,11 @@
 <p style="font-size: 14px">Foi utilizado SCRUM como metodologia ágil para a organização do projeto, com o uso da ferramenta Trello.</p>
 <p style="font-size: 14px">Para a demonstração detalhada das perguntas, gráficos e análises, foi desenvolvido um site em HTML, CSS e JavaScript, cujo protótipo foi desenvolvido no Photoshop.</p>
 
+
 <br>
 <hr/>
 
-## 📋 Perguntas utilizadas:
+## 📋 Perguntas norteadoras de observação dos dados principais e de busca por informações para contextualização:
 
 <ul style="list-style: square;">
     <li>O cálculo de tempo de duração dos episódios mostra se houve de fato uma redução de tempo de tela na narrativa nas duas últimas temporadas?</li>
@@ -53,6 +69,24 @@
 <hr/>
 
 ## 👥 Equipe:
+| [<img src="https://avatars.githubusercontent.com/u/95666367?v=4" width=115><br><sub>Anthony Thomas</sub>](https://github.com/anthonythom) |  [<img src="https://avatars.githubusercontent.com/u/95043315?v=4" width=115><br><sub>Hugo Legramandi</sub>](https://github.com/hugolegramandi) |  [<img src="https://avatars.githubusercontent.com/u/94466133?v=4" width=115><br><sub>Irena Costa</sub>](https://github.com/irenacosta) |
+| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/95762100?v=4" width=115><br><sub>Nando Mendes</sub>](https://github.com/nandomerces) |  [<img src="https://avatars.githubusercontent.com/u/96400582?v=4" width=115><br><sub>Thainá Monteiro</sub>](https://github.com/Thaina-Monteiro) |
+
+## ⚖️Licença
+MIT License
+
+Copyright (c), 2022. Equipe STUDIO DATA SCIENCE.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 <br>
-
