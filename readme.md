@@ -82,6 +82,9 @@
 ## 🛠️ Tecnologias e ferramentas utilizadas:
 
 <div align="center">
+    
+   <img src="assets/img/tech.png" />
+
 </div>
 
 <br>
